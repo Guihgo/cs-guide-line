@@ -139,12 +139,19 @@ Segue um guia de estudos com tópicos a serem estudados para nivelamento e apres
 	2. Conhecendo o Google WebMaster
 		* https://www.google.com/intl/pt-BR/webmasters/#?modal_active=none
 	3. Identificando a ação dos usuários em sua página;
-28. Criando uma estrutura básica em NodeJS;
+28. NodeJs;
+	1. O que é e para que serve;
+	2. Estrutura básica;
+	3. Criando seu próprio módulo;
+	4. Módulos nativos;
+	5. Implementando módulos com NPM;
+	6. Alguns dos principais módulos utilizados (Express, SocketIo, Request, body-parser, MongoDB Driver);
+	7. Criando um simples WebChat em tempo real;
+	8. Consumindo um API externa;
+	8. Quando realmente utilizar NodeJS;
 29. O que é um banco de dados NOSQL;
 	1. Quais as suas vantagens e desvantagens?
-30. Utilizando o NodeJS para criar uma estrutura de servidor web com Express;
-31. Demonstração da aplicação em RealTime com NodeJS + MongoBD e WebSockets;
-32. Criando uma aplicação real time em NodeJS para consumir dados de uma API Externa; (Twitter);
+	2. Principais bancos de dados NOSQL;
 33. Conhecendo o Firebase;
 	1. O que é o firebase?
 	2. Conhecendo uma aplicação de Chat em Realtime com Firebase;
